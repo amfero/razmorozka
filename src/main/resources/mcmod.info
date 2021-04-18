@@ -1,0 +1,16 @@
+[
+{
+  "modid": "razmorozka",
+  "name": "razmorozka",
+  "description": "no desc.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["1Amfero1"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

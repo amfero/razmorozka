@@ -1,0 +1,22 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.amfero.razmorozka.mixin.mixins.mixin",
+  "refmap": "mixins.razmorozka.refmap.json",
+  "mixins": [
+    "MinecraftMixin",
+    "NetworkManagerMixin",
+    "TimerMixin",
+    "MixinRenderManager",
+    "MixinGuiScreen",
+    "RenderLivingBaseMixin",
+    "ModelPlayerMixin",
+    "PlayerControllerMPMixin",
+    "MixinGuiPlayerTabOverlay",
+    "MixinCPacketPlayer",
+    "MixinRenderEnderCrystal"
+  ],
+  "client": [
+    "EntityPlayerSPMixin"
+  ]
+}
