@@ -3,9 +3,6 @@ package me.amfero.razmorozka.module;
 import me.amfero.razmorozka.Razmorozka;
 import me.amfero.razmorozka.gui.SettingButton;
 import me.amfero.razmorozka.setting.Setting;
-import me.amfero.razmorozka.util.font.FrameUtil;
-import me.amfero.razmorozka.util.font.Worlex;
-import me.amfero.razmorozka.util.font.NetworkUtil;
 import net.minecraft.client.Minecraft;
 import net.minecraftforge.common.MinecraftForge;
 

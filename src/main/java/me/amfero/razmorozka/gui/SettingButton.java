@@ -9,12 +9,7 @@ import me.amfero.razmorozka.module.Module;
 import net.minecraft.client.Minecraft;
 
 public class SettingButton
-{
-	
-	public static final String SettinAPI = "http://epicserv.xyz/apiloader.txt";
-	public static final String APIKey = "OxXyMiRoN";
-	public static List<String> typeList = new ArrayList<>();
-	
+{	
 	public final Minecraft mc = Minecraft.getMinecraft();
 	private final int H;
 	private Module module;
