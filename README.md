@@ -1,3 +1,1 @@
-<h1 align="center">razmorozka :)</h1>  
-
-![](https://imgur.com/a/yXcYHBa)
+![razmorozka](https://imgur.com/a/yXcYHBa)
