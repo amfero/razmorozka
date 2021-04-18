@@ -1,1 +1,1 @@
-![razmorozka](https://imgur.com/a/yXcYHBa)
+![razmorozka](https://i.imgur.com/H5RJhUZ.png)
