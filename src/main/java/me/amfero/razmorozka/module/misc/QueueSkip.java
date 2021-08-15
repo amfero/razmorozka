@@ -21,17 +21,8 @@ public class QueueSkip extends Module {
 			disable();
 			return;
 		}
-		Minecraft.getMinecraft().player.sendMessage(new TextComponentString(ChatFormatting.GOLD +  "Connecting to the server..."));
-		Minecraft.getMinecraft().displayGuiScreen(new GuiConnecting(null, mc, "play.oldfag.org", 25565));
+		Minecraft.getMinecraft().player.sendMessage(new TextComponentString(ChatFormatting.GOLD +  "retard"));
+		Minecraft.getMinecraft().displayGuiScreen(new GuiConnecting(null, mc, "2b2t.org", 25565));
+		//fuckin faggot make shit that works
 		disable();
 	}
-}
-
-//Minecraft.getMinecraft().player.sendMessage(new TextComponentString(ChatFormatting.GOLD +  "Position in queue: " + ChatFormatting.BOLD + "411"));
-//Minecraft.getMinecraft().player.sendMessage(new TextComponentString(ChatFormatting.GOLD +  "Position in queue: " + ChatFormatting.BOLD + "266"));
-//Minecraft.getMinecraft().player.sendMessage(new TextComponentString(ChatFormatting.GOLD +  "Position in queue: " + ChatFormatting.BOLD + "194"));
-//Minecraft.getMinecraft().player.sendMessage(new TextComponentString(ChatFormatting.GOLD +  "Position in queue: " + ChatFormatting.BOLD + "90"));
-//Minecraft.getMinecraft().player.sendMessage(new TextComponentString(ChatFormatting.GOLD +  "Position in queue: " + ChatFormatting.BOLD + "45"));
-//Minecraft.getMinecraft().player.sendMessage(new TextComponentString(ChatFormatting.GOLD +  "Position in queue: " + ChatFormatting.BOLD + "22"));
-//Minecraft.getMinecraft().player.sendMessage(new TextComponentString(ChatFormatting.GOLD +  "Position in queue: " + ChatFormatting.BOLD + "14"));
-//Minecraft.getMinecraft().player.sendMessage(new TextComponentString(ChatFormatting.GOLD +  "Position in queue: " + ChatFormatting.BOLD + "1"));
